@@ -1,12 +1,12 @@
 # web2425ki409kulaiets13
 
-#WEB 24-25 KI-409 Kulaiets V.I. 13
+# WEB 24-25 KI-409 Kulaiets V.I. 13
 
-#Description
+# Description
 
 A website business card with personal data and project information. Uses POST and GET methods for page navigation and form submission. Implements AJAX to dynamically load page content based on user imput.
 
-#Task Details
+# Task Details
 
 Number: 13
 Fraud: fishing 
